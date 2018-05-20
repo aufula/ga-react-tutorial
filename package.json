@@ -2,7 +2,7 @@
   "name": "ga-react-tutorial",
   "version": "1.0.0",
   "description": "# Setup (Before Class)",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "webpack-dev-server --hot --inline --colors",
     "build": "webpack --progress --colors"
